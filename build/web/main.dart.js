@@ -45291,11 +45291,11 @@ B.b.L(s.w)},
 $S:0}
 A.ak3.prototype={
 $0(){var s,r,q,p,o,n,m,l
-for(s=this.a,r=s.r,q=s.w,p=s.x,o="http://robot.local:5000/water?commands=[",n=0;n<r.length;++n){q[n].push(p[n].a.a)
+for(s=this.a,r=s.r,q=s.w,p=s.x,o="http://robot.local:5000/water?commands=",n=0;n<r.length;++n){q[n].push(p[n].a.a)
 m=q[n][0]
 l=p[n].a.a
-o+="["+m+","+l+"]"
-A.aqO(l)}s.co(o+"]")},
+o+=m+l
+A.aqO(l)}s.co(o)},
 $S:0}
 A.ak4.prototype={
 $0(){var s=0,r=A.P(t.H)
