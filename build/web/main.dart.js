@@ -45121,7 +45121,7 @@ A.ajj.prototype={
 $0(){this.a.x=this.b},
 $S:0}
 A.AO.prototype={
-ai(){return new A.Vn(new A.acO("ws://michiels-macbook-pro.local:5001",new A.kK(null,null,t.J6)),B.j)}}
+ai(){return new A.Vn(new A.acO("ws://robot.local:5001",new A.kK(null,null,t.J6)),B.j)}}
 A.Vn.prototype={
 Fq(a){return this.ag7(a)},
 ag7(a){var s=0,r=A.P(t.H),q=this
