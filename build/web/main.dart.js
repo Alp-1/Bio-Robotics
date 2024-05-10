@@ -45183,7 +45183,7 @@ n=A.fU(A.b([j,i,A.de(A.zT(100,B.c.k(n),100,0,new A.ajV(l),n),3)],r),B.a0,B.bh,B.
 i=A.de(A.ca("Speed",k,k,k,k,k,k,k),1)
 j=A.de(A.pe(l.ay,new A.ajW(l)),1)
 m=l.y
-return A.hI(A.nt(A.b([s,q,p,o,n,A.fU(A.b([i,j,A.de(A.zT(200,B.c.k(m),3,0,new A.ajN(l),m),3)],r),B.a0,B.bh,B.al),new A.d8(new A.ap(0,100,0,0),A.lr(A.ca("Save settings",k,k,k,k,k,k,k),new A.ajO(l),k),k)],r),B.a0,B.bi,B.al),k,k)}}
+return A.hI(A.nt(A.b([s,q,p,o,n,A.fU(A.b([i,j,A.de(A.zT(3,B.c.k(m),3,0,new A.ajN(l),m),3)],r),B.a0,B.bh,B.al),new A.d8(new A.ap(0,100,0,0),A.lr(A.ca("Save settings",k,k,k,k,k,k,k),new A.ajO(l),k),k)],r),B.a0,B.bi,B.al),k,k)}}
 A.ajK.prototype={
 $1(a){var s=this.a
 s.a6(new A.ajB(s,a))},
