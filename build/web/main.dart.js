@@ -45438,7 +45438,7 @@ $S:0}
 A.akw.prototype={
 $0(){var s,r,q,p,o,n
 for(s=this.a,r=s.r,q=s.w,p=s.x,o="http://robot.local:5000/water?commands=",n=0;n<r.length;++n){q[n].push(p[n].a.a)
-o+=q[n][0]+p[n].a.a}s.cu(o)},
+o+=q[n][0]+p[n].a.a+","}s.cu(o)},
 $S:0}
 A.akx.prototype={
 $0(){var s=0,r=A.P(t.H)
